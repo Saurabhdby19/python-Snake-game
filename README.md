@@ -1,4 +1,3 @@
-# python-Snake-game
 import random
 import curses
 
